@@ -91,7 +91,6 @@ restaurant-online/
 │ └── logout.php ← خروج
 └── index.php ← صفحه اصلی
 
-text
 
 ---
 
