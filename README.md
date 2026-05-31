@@ -50,49 +50,6 @@
 
 ---
 
-## 📁 ساختار پروژه
-restaurant-online/
-├── assets/ ← فایل‌های استاتیک
-│ ├── css/ ← استایل‌ها
-│ ├── js/ ← جاوااسکریپت‌ها
-│ ├── fonts/ ← فونت‌ها
-│ └── images/ ← عکس‌ها
-│ └── foods/ ← عکس‌های غذاها
-├── config/ ← تنظیمات
-│ ├── database.php ← اتصال به دیتابیس
-│ ├── online_restaurant.sql ← فایل دیتابیس
-│ └── structure.txt ← توضیحات ساختار
-├── includes/ ← فایل‌های مشترک
-│ ├── header.php ← هدر سایت
-│ ├── footer.php ← فوتر سایت
-│ ├── header_admin.php ← هدر پنل ادمین
-│ └── functions.php ← توابع کمکی
-├── admin/ ← پنل مدیریت
-│ ├── dashboard.php ← داشبورد ادمین
-│ ├── foods.php ← مدیریت غذاها
-│ ├── categories.php ← مدیریت دسته‌بندی‌ها
-│ ├── orders.php ← مدیریت سفارش‌ها
-│ ├── users.php ← مدیریت کاربران
-│ └── reviews.php ← مدیریت نظرات
-├── user/ ← پنل کاربری
-│ ├── dashboard.php ← پیشخوان کاربر
-│ ├── profile.php ← ویرایش پروفایل
-│ ├── orders.php ← سفارش‌های من
-│ └── reviews.php ← نظرات من
-├── main/ ← صفحات اصلی
-│ ├── menu.php ← منوی غذاها
-│ ├── food-detail.php ← جزئیات غذا
-│ ├── cart.php ← سبد خرید
-│ ├── about.php ← درباره ما
-│ └── checkout.php ← تسویه حساب
-├── authentication/ ← احراز هویت
-│ ├── login.php ← ورود
-│ ├── signup.php ← ثبت‌نام
-│ └── logout.php ← خروج
-└── index.php ← صفحه اصلی
-
-
----
 
 ## 🎯 مناسب برای
 
